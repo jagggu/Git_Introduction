@@ -1,2 +1,1 @@
-import numpy as np
-print("Jaggu")
+print("Hello Jagadeesh")
